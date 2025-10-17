@@ -1,34 +1,29 @@
-<h1>Hi, I'm Raymond! <br/> <a href="https://www.linkedin.com/in/raymond-mejia">Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# <h1>Hi, I'm Raymond! <br/> <a href="https://www.linkedin.com/in/raymond-mejia"></a> IT and Cybersecurity Project Portfolio 🔐
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-<h2>📄 Certifications</h2>
 
-- [Microsoft Office Specialist: Excel (2016) ](https://www.credly.com/badges/9dad1d61-f66d-4bee-b125-80706d428690/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/c3790906-7e7e-47c8-9dcc-d135de306771/public_url)
+## ⚠️ Vulnerability Management Projects
 
-<h2> 🤳 Connect with me:</h2>
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-[<img align="left" alt="RaymondMejia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RaymondMejia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+
+[youtube]: https://www.youtube.com/c/___________
 [linkedin]: https://www.linkedin.com/in/raymond-mejia
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
