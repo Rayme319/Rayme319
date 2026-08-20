@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Rayme319/threat-hunting-scenario-tor)**
+- **[Threat Hunt Report: Another Day, Part Two](https://github.com/Rayme319/Threat-Hunt-Reports/tree/main/Another-Day-Part-Two)**
 
 <hr/>
 
